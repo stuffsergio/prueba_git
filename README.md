@@ -31,3 +31,10 @@
   `git commit -m "nuevos cambios"`
   Pusheamos el commit al repo de GitHub
   `git push`
+
+Extra:
+
+- Para comprobar el estado del repositorio (si hay cambios por añadir, los archivos ya añadidos, commit por pushear, etc.), usamos:
+  `git status`
+- Para ver el registro de commits realizados
+  `git log`
